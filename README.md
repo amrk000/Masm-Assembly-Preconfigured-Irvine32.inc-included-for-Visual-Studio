@@ -1,2 +1,2 @@
-# Masm-Assembly-Preconfigured-Irvine32.inc-included-for-Visual-Studio
+# MASM Assembly Preconfigured Irvine32.inc included for Visual-Studio
 Masm Assembly Pre-configured + Irvine32.inc included Visual Studio Project
